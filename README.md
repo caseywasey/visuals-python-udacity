@@ -3,7 +3,8 @@
 ## Contents
 
 * **visuals.py**
-  - "Originally written for use in several Udacity Machine Learning Engineer Nanodegree projects."
+  - "Used in the *Smart Cab* Project"
+  - "Originally written for use in Udacity Machine Learning Engineer Nanodegree projects about training a smart cab"
   - "This Python script contains functions that are useful for creating exciting visualizations in a Jupyter Notebook."
 
 * **Overview**
